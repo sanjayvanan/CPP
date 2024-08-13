@@ -13,8 +13,8 @@ struct Queue {
         if (s1.empty() && s2.empty()) {
             cout << "Queue is empty" << endl;
             return -1;
+            
         }
-
         if (s2.empty()) {
             while (!s1.empty()) {
                 s2.push(s1.top());

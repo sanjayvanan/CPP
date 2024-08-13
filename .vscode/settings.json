@@ -1,3 +1,6 @@
 {
-    "C_Cpp.default.compilerPath": "c:\\C++ Learning\\Helloworld.cpp"
+    "C_Cpp.default.compilerPath": "c:\\C++ Learning\\Helloworld.cpp",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }

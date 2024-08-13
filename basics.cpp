@@ -10,6 +10,9 @@ int main(){
     for(int i =0;i<4;i++){
         cin>> cars[i];
     }
-    cout<< cars[2];
+    cout<< cars[2]<<"\n";
+    int var[] = {1,2,3};
+    cout<<var[1];
+
     return 0;
 }
